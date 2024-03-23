@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Utkarsh Raj Sinha hailing from India, currently a 3rd year student at SRMIST, KTR.<br><br>- 🔭 A game developer in making.<br>- ⚡ I am a Musician, Dancer & a Gamer.<br>- ⌚ In my free time, I create 3D models, play games and enjoy life.<br>- 👀 Interested in Game Development, Virtual Reality, Programming, Editing and AI.<br>- 📖 Currently experiencing and exploring the field of Computer Science.</p>
+<p align="left">I'm Utkarsh Raj Sinha hailing from India, currently a 3rd year student at SRMIST, KTR.<br><br>- 🔭 A game developer in making.<br>- ⚡ I am a Musician, Dancer & a Gamer.<br>- ⌚ In my free time, I create 3D models, play games and enjoy life.<br>- 👀 Interested in Game Development, Virtual Reality, Programing, Editing and AI.<br>- 📖 Currently experiencing and exploring the field of Computer Science.</p>
 
 ###
 
@@ -122,10 +122,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=Rutkarsh08&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rutkarsh08&radius=20&theme=synthwave-84&area=true&order=5&hide_border=false&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Rutkarsh08/Rutkarsh08/output/snake.svg" alt="Snake animation" />
 
 ###
 
