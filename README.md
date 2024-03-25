@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">| Aspire To Inspire |</h3>
+<h3 align="center">| Aspire To Inspire | Never Give Up Till It's Over |</h3>
 
 ###
 
