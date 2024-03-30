@@ -128,9 +128,3 @@
 </div>
 
 ###
-
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=790b76119ckmzcg92t1yrhs85cysw6uhthblncvhae90og38&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
