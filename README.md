@@ -124,7 +124,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rutkarsh08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rutkarsh08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Rutkarsh08&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rutkarsh08&radius=20&theme=synthwave-84&area=true&order=5&hide_border=false&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
