@@ -4,7 +4,9 @@
 
 ###
 
-<img align="right" height="200" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"  />
+<br clear="both">
+
+<img align="right" height="218" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"  />
 
 ###
 
