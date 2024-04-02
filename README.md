@@ -1,6 +1,10 @@
 <div align="left">
-  <img height="150" src="https://media.giphy.com/media/1AIwOCLJfYApsKSlWS/giphy.gif?cid=790b7611lo7yhkmepkyp3lj0vqbfjfx4fxlfaf9v9hfz2x93&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="150" src="https://gifdb.com/images/high/angel-piano-beats-c59gcin2w9ylztfg.gif"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"  />
 
 ###
 
@@ -19,10 +23,6 @@
 ###
 
 <h1 align="center">Hey there, this is Utkarsh. 👋</h1>
-
-###
-
-<h3 align="center">| Aspire To Inspire | Never Give Up Till It's Over |</h3>
 
 ###
 
@@ -123,7 +123,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rutkarsh08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rutkarsh08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Rutkarsh08&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Rutkarsh08&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
