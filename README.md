@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hey there, this is Utkarsh. 👋</h1>
+<h1 align="center">Hey there, this is Utkarsh 👋</h1>
 
 ###
 
