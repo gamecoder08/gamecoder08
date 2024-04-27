@@ -1,9 +1,5 @@
-<img align="left" height="200" src="https://gifdb.com/images/high/angel-piano-beats-c59gcin2w9ylztfg.gif"  />
-
-###
-
-<div align="right">
-  <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemF2MnAxd2V3ODVsZ2N0OXlnaHU1Z253bTZoaTh5ejkxaXJxNWVsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9grIJnCOi7Bpcvq6kd/source.gif"  />
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtzYWJwMXExMXdmMTFxb2tudGFwZHg1OW9mMDVqOWc4aG43dzlnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQafdTPpi55tXR7x3z/giphy.gif"  />
 </div>
 
 ###
