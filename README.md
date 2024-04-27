@@ -151,9 +151,3 @@
 [![](https://visitcount.itsvg.in/api?id=Rutkarsh08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rutkarsh08/count.svg?"  />
-</div>
-
-###
