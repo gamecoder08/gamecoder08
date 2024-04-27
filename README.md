@@ -128,7 +128,7 @@
 
 ###
 
-<h1 align="left">Connect with me.</h1>
+<h3 align="left">Connect with me.</h3>
 
 ###
 
