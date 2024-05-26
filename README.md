@@ -33,7 +33,7 @@ technical_background:
     "3D Model Artist"
   ]
   
-currently_learning: ["JavaScript, Tailwind CSS, ReactJS"]
+currently_learning: ["JavaScript, Tailwind CSS, ReactJS, Blender, Unity"]
 2024 Goals: ["Become a better version of me and create atleast a big project."]
 hobbies: ["Dancing","Musician","Gaming", "Cinema", "Swimming"]
 ```
