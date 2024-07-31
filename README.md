@@ -83,7 +83,7 @@ hobbies: ["Dancing","Musician","Gaming", "Cinema", "Swimming"]
   <a href="https://www.hackerrank.com/profile/ur5441" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="https://twitter.com/utkarsh08_rs_" target="_blank">
+  <a href="https://x.com/disguised08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
