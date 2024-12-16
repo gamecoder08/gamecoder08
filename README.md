@@ -11,7 +11,7 @@
 ```yaml
 name: Utkarsh Raj Sinha
 located_in: India
-current_job: Student, Developer in training, GameDev in making.
+current_job: Student, Developer, GameDev.
 
 fields_of_interests:
   [
