@@ -24,14 +24,13 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Front-End Web Developer",
-    "Game Developer Trainee",
+    "Web Developer",
+    "Game Developer",
     "3D Model Artist"
   ]
   
-currently_learning: ["JavaScript, Tailwind CSS, ReactJS, RestAPI, Blender, Unity"]
-2024 Goals: ["Become a better version of me and create atleast a big project."]
-hobbies: ["Dancing","Musician","Gaming", "Cinema", "Swimming"]
+currently_learning: ["ThreeJS, ReactJS, RestAPI, Blender"]
+hobbies: ["Dancing","Musician","Gaming", "Swimming"]
 ```
 ###
 
