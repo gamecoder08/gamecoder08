@@ -32,7 +32,7 @@ technical_background:
 currently_learning: ["ThreeJS, ReactJS, RestAPI, Blender"]
 hobbies: ["Dancing","Musician","Gaming", "Swimming"]
 
-2025 goals:
+2025_goals:
 [
   "Get Placed",
   "Create a portfolio"
