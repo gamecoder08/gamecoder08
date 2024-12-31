@@ -31,6 +31,13 @@ technical_background:
   
 currently_learning: ["ThreeJS, ReactJS, RestAPI, Blender"]
 hobbies: ["Dancing","Musician","Gaming", "Swimming"]
+
+2025 goals:
+[
+  "Get Placed",
+  "Create a portfolio"
+  "Create a 2.5D solo game"
+]
 ```
 ###
 
