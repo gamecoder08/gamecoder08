@@ -36,7 +36,7 @@ hobbies: ["Dancing","Musician","Gaming", "Swimming"]
 [
   "̶G̶e̶t̶ ̶P̶l̶a̶c̶e̶d̶"̶,̶
   "̶C̶r̶e̶a̶t̶e̶ ̶a̶ ̶p̶o̶r̶t̶f̶o̶l̶i̶o̶"̶
-  "̷C̷r̷e̷a̷t̷e̷ ̷a̷ ̷2̷.̷5̷D̷ ̷s̷o̷l̷o̷ ̷g̷a̷m̷e̷"̷ -> "Create a 3D solo game"
+  "̷C̷r̷e̷a̷t̷e̷ ̷a̷ ̷2̷.̷5̷D̷ ̷s̷o̷l̷o̷ ̷g̷a̷m̷e̷"̷ -> "̶C̶r̶e̶a̶t̶e̶ ̶a̶ ̶3̶D̶ ̶s̶o̶l̶o̶ ̶g̶a̶m̶e̶"̶
 ]
 ```
 ###
