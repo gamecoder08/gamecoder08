@@ -32,11 +32,11 @@ technical_background:
 currently_learning: ["ThreeJS, ReactJS, RestAPI, Blender"]
 hobbies: ["Dancing","Musician","Gaming", "Swimming"]
 
-2025_goals:
+2026_goals:
 [
-  "̶G̶e̶t̶ ̶P̶l̶a̶c̶e̶d̶"̶,̶
-  "̶C̶r̶e̶a̶t̶e̶ ̶a̶ ̶p̶o̶r̶t̶f̶o̶l̶i̶o̶"̶
-  "̷C̷r̷e̷a̷t̷e̷ ̷a̷ ̷2̷.̷5̷D̷ ̷s̷o̷l̷o̷ ̷g̷a̷m̷e̷"̷ -> "̶C̶r̶e̶a̶t̶e̶ ̶a̶ ̶3̶D̶ ̶s̶o̶l̶o̶ ̶g̶a̶m̶e̶"̶
+  Leetcode 365
+  50 ███
+  Master driving and cooking
 ]
 ```
 ###
