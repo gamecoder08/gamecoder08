@@ -38,6 +38,15 @@ hobbies: ["Dancing","Musician","Gaming", "Swimming"]
   50 ███
   Master driving and cooking
 ]
+
+"The Game" Stats:
+[
+  Strength:     --|--|--|  |  |  |  |  |  |  | -> 3/10
+  Intelligence: --|--|--|--|  |  |  |  |  |  | -> 4/10
+  Knowledge:    --|--|  |  |  |  |  |  |  |  | -> 2/10
+  Stability:    --|  |  |  |  |  |  |  |  |  | -> 1/10
+  Discipline:   --|--|  |  |  |  |  |  |  |  | -> 1/10
+]
 ```
 ###
 
