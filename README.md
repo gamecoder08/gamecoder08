@@ -35,7 +35,7 @@ hobbies: ["Dancing","Musician","Gaming", "Swimming"]
 2026_goals:
 [
   Leetcode 365
-  50 ███
+  30 ███
   Master driving and cooking
 ]
 
@@ -44,7 +44,7 @@ hobbies: ["Dancing","Musician","Gaming", "Swimming"]
   Strength:     --|--|--|  |  |  |  |  |  |  | -> 3/10
   Intelligence: --|--|--|--|  |  |  |  |  |  | -> 4/10
   Knowledge:    --|--|  |  |  |  |  |  |  |  | -> 2/10
-  Stability:    --|  |  |  |  |  |  |  |  |  | -> 1/10
+  Stability:    --|--|  |  |  |  |  |  |  |  | -> 2/10
   Discipline:   --|--|  |  |  |  |  |  |  |  | -> 1/10
 ]
 ```
