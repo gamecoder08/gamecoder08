@@ -42,9 +42,9 @@ hobbies: ["Dancing","Musician","Gaming", "Swimming"]
 "The Game" Stats:
 [
   Strength:     --|--|--|  |  |  |  |  |  |  | -> 3/10
-  Intelligence: --|--|--|--|  |  |  |  |  |  | -> 4/10
-  Knowledge:    --|--|  |  |  |  |  |  |  |  | -> 2/10
-  Stability:    --|--|  |  |  |  |  |  |  |  | -> 2/10
+  Intelligence: --|--|--|--|--|  |  |  |  |  | -> 5/10
+  Knowledge:    --|--|--|  |  |  |  |  |  |  | -> 3/10
+  Stability:    --|--|--|  |  |  |  |  |  |  | -> 3/10
   Discipline:   --|--|  |  |  |  |  |  |  |  | -> 1/10
 ]
 ```
